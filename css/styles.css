@@ -1074,7 +1074,7 @@ line-height: 24px;
 
 letter-spacing: 0.03em;
 
-color: var (var(--accent-color));
+color: var(--accent-color);
 }
 
 .button-submit-div{
